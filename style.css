@@ -1,0 +1,38 @@
+html, body{
+    height: 100%;
+    background-color: #06283D !important;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.global-container{
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #EAEAEA;
+}
+.login-form{
+    width: 380px;
+    height: 450px;
+    padding: 20px;
+    background-color: #06283D !important;
+    border-radius: 20px !important;
+    border-color: lightgreen;
+}
+input[type="username"],input[type="password"]{
+    border-radius: 5px;
+    margin-bottom: 25px;
+}
+
+.card-title{
+    font-family: 'Segoe UI';
+}
+
+.btn{
+   background-color: #00ABB3;
+}
+.form-check{
+    color: #feffff;
+}
+.a{
+    color: #EAEAEA;
+}
